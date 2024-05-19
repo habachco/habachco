@@ -224,6 +224,9 @@ img{
 }
 
 
-@media (max-width=1000){
+@media (max-width=1250){
+    .hero{
+        background-image: url(images/hero-page-7-final-6.jpg);
+    }
     
 }

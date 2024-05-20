@@ -1,0 +1,22 @@
+@media only screen and (max-width: 900px){
+
+    .hero{
+        background-color: #666;
+        text-align: center;
+    }
+
+    .hero p{
+        font-size: 20px;
+        margin-left: 25%;
+    }
+
+    .hero h1{
+        font-size: 36px;
+        margin: 0 25%;
+    }
+
+    .cta-button-1{
+        display: flex;
+        align-items: center;
+    }
+}
